@@ -35,4 +35,4 @@ This chatbot uses Prolog for logic-based reasoning and JavaFX for the graphical 
 
 ---
 
-## 🧩 Your Can View Knowledge Base
+## 🧩 You Can View Knowledge Base it is in \src\chatbot\knowledge.pl
